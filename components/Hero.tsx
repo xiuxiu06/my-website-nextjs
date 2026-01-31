@@ -74,8 +74,8 @@ export default function Hero() {
         aria-hidden="true"
       >
         <Image
-          src="/elements/i love coding.png"
-          alt="I love coding badge"
+          src="/elements/I love creating!.png"
+          alt="I love creating badge"
           width={180}
           height={180}
           priority
