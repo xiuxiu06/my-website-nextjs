@@ -53,8 +53,8 @@ export const projects: Project[] = [
 ];
 
 export const contactInfo = {
-  email: 'tamle@example.com',
-  github: 'https://github.com/tamle',
-  linkedin: 'https://linkedin.com/in/tamle',
-  behance: 'https://behance.net/tamle'
+  email: 'le3t6@mail.uc.edu',
+  github: 'https://github.com/xiuxiu06',
+  linkedin: 'https://linkedin.com/in/tamle06/',
+  behance: 'https://behance.net/TamLe06'
 };
